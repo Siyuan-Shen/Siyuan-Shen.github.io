@@ -179,7 +179,6 @@ GEM
 
 PLATFORMS
   aarch64-linux-gnu
-  x86_64-linux
 
 DEPENDENCIES
   classifier-reborn
@@ -207,4 +206,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.5.14
+   2.5.15
