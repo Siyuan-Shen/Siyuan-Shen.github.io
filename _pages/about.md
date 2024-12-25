@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sites.wustl.edu/acag/'>Atmospheric Composition Analysis Group, Washington University in St. Louis</a>.
+subtitle: <p>  </p>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p></p>
+    <p>  <a href='https://sites.wustl.edu/acag/'> Atmospheric Composition Analysis Group, Washington University in St. Louis</a>. </p>
+    <p>St. Louis, MO U.S.A. </p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
