@@ -9,13 +9,13 @@
     {
       "institution": "Washington University in St. Louis",
       "location": "St. Louis, MO U.S.A.",
-      "url":"https://eece.washu.edu/index.html",
+      "url": "https://eece.washu.edu/index.html",
       "degree": "Energy, Environmental, and Chemical Engineering",
       "area": "Aerosols and Air pollution",
       "studyType": "PhD",
       "advisor": "Dr. Randall V. Martin",
       "startDate": "2020",
-      "endDate"  : "present"
+      "endDate": "present"
     },
     {
       "institution": "Peking University",
@@ -25,19 +25,19 @@
       "advisor": "Dr. Lin Zhang",
       "studyType": "Bachelor",
       "startDate": "2016",
-      "endDate"  : "2020"
+      "endDate": "2020"
     },
     {
       "institution": "Peking University",
-      "url":"https://en.nsd.pku.edu.cn/",
+      "url": "https://en.nsd.pku.edu.cn/",
       "location": "Beijing, China",
       "area": "Economics",
       "studyType": "Bachelor",
       "startDate": "2017",
-      "endDate"  : "2020"
+      "endDate": "2020"
     }
   ],
-  
+
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -66,38 +66,20 @@
       "name": "Data-Driven Methods",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Convolutional Neural Networks",
-        "Transformer",
-        "Machine Learning",
-        "Pytorch"
-      ]
-
+      "keywords": ["Convolutional Neural Networks", "Transformer", "Machine Learning", "Pytorch"]
     },
     {
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "MatLab",
-        "C++"
-      ]
+      "keywords": ["Python", "MatLab", "C++"]
     },
     {
       "name": "Atmospheric Chemistry",
       "level": "Master",
       "icon": "fa-solid fa-flask",
-      "keywords": [
-        "Aerosols",
-        "GEOS-Chem Model",
-        "Adjoint Mondeling",
-        "PM2.5"
-      ]
+      "keywords": ["Aerosols", "GEOS-Chem Model", "Adjoint Mondeling", "PM2.5"]
     }
-    
-
-
   ],
   "languages": [
     {
@@ -116,6 +98,4 @@
       "icon": ""
     }
   ]
-  
 }
-
