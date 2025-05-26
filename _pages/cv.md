@@ -4,8 +4,8 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: Resume_SiyuanShen_Upto2024Jul15.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Resume_SiyuanShen.pdf
+description: Please download my CV pdf through the top-right button.
 toc:
   sidebar: left
 ---

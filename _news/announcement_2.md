@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Our paper on using a convolutional neural network to estimate the gLobal PM2.5 has been accepted by ES&T Air
+date: 2024-03-27 16:11:00-0400
 inline: false
 related_posts: false
 ---

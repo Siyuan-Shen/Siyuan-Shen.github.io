@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p>  </p>
+subtitle: <p> Reveal the impact of human activities on atmospheric composition through data-driven & deep learning methods. </p>
 
 profile:
   align: right
@@ -17,8 +17,19 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently a Ph.D. candidate working with Randall Martin in the [Atmospheric Composition Analysis Group](https://sites.wustl.edu/acag/)
+at Washington University in St. Louis. My current research 
+focuses on using data-driven methods combined with the air quality model, 
+ground-based observations, and satellite retrievals to investigate air pollution.
+I have been working on estimating of fine resolution global PM2.5 
+concentration, developing regional PM2.5 and composition concentration with uncertainties, 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to my PhD, I received a B.S. in Physics and a B.A. 
+in Economics from [Peking University](https://english.pku.edu.cn/) in 2020.
+My undergraduate research was advised by [Dr. Lin Zhang](http://scholar.pku.edu.cn/acaq) focuses
+on analyses of fine particulate matter sources across China with an adjoint version of the GEOS-Chem model and investigation
+of diurnal ammonium trends in Beijing with a nested GEOS-Chem model.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+In my spare time, I like hiking, swimming, chess, cooking, and landscape photographing.
+
+
