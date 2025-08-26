@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://Siyuan-Shen.github.io" 
+title: Siyuan Shen
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -29,8 +29,8 @@ menu:
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Siyuan Shen's research papers, data, curriculum vitae, and contact information."
+    author: Siyuan Shen
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -54,50 +54,38 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Siyuan Shen
+          subtitle: "I am a PhD candidate in the department of Energy, Environmental & Chemical Engineering at the Washington University in St. Louis. My research is dedicated to applying deep learning methods to uncover new perspectives on air quality, satellite image-based retrievals, and climate-aerosol interactions. I am also willing to explore the interactions between air quality, anthropogenic activities, climate change and public health. "
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: Research
+              url: research/
             - name: Papers
               url: papers/
             - name: Data
               url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
             - name: Blog
               url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Resume_SiyuanShen.pdf
         - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: mailto:s.siyuan@wustl.edu
         - name: Location
           url: location/
-        - name: Office Hours
-          url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=Fu3wP14AAAAJ
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://github.com/Siyuan-Shen
         - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
+          url: https://www.youtube.com/channel/UC40KFb_x6X32jgOpCeW2S9w
         - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://x.com/ShenSiyuanA
+        - name: Other
+          url: https://www.atmoschemml.com/
 
     assets:
         disableScrollBarStyle: true
