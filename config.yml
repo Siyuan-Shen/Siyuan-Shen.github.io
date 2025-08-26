@@ -12,20 +12,14 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
         - name: Papers
           url: papers/
           weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
         - name: Data
           url: data/
           weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+        - name: CV
+          url: Resume_SiyuanShen.pdf
           weight: 6
 
 params:
@@ -80,6 +74,8 @@ params:
           url: https://scholar.google.com/citations?user=Fu3wP14AAAAJ
         - name: GitHub
           url: https://github.com/Siyuan-Shen
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/siyuan-shen-68019b1a6/
         - name: YouTube
           url: https://www.youtube.com/channel/UC40KFb_x6X32jgOpCeW2S9w
         - name: Twitter
@@ -93,7 +89,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Siyuan Shen"
       icon: favicon.ico
       iconHeight: 18
 

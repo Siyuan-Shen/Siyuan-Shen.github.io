@@ -10,7 +10,7 @@ description: "Siyuan Shen's mailing and office addresses at Washington Universit
 
 #### Mailing address
 
-Siyuan Shen 
+Siyuan Shen
 Department of Energy, Environmental & Chemical Engineering
 Washington University in St. Louis
 St. Louis, MO U.S.A.
