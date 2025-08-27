@@ -12,9 +12,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
-          url: papers/
+        - name: About Me
+          url: aboutme/
+          weight: 1
+        - name: Research
+          url: research/
           weight: 2
+        - name: Publications
+          url: papers/
+          weight: 3
         - name: Data
           url: data/
           weight: 4 
@@ -38,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
+    MainSections: ["About Me","Research","courses","publications","data"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -54,14 +60,17 @@ params:
           imageWidth: 160
           imageHeight: 160
           buttons:
+            - name: About Me
+              url: aboutme/
             - name: Research
               url: research/
-            - name: Papers
+            - name: Publications
               url: papers/
             - name: Data
               url: data/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: CV
+              url: Resume_SiyuanShen.pdf
+
 
     socialIcons:
         - name: CV
