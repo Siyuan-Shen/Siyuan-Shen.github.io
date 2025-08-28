@@ -16,18 +16,18 @@
       <description>Siyuan Shen&amp;#39;s mailing and office addresses at Washington University in St. Louis.</description>
     </item>
     <item>
+      <title>Global Satellite-derived Monthly PM2.5 Total Mass (0.01x0.01) - V6.02.04</title>
+      <link>http://localhost:1313/data/globalv6pm25_data/</link>
+      <pubDate>Wed, 07 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/data/globalv6pm25_data/</guid>
+      <description>This dataset contains global annual and monthly ground-level fine particulate matter (PM2.5) for 2000-2023 at around 1 km resolution.</description>
+    </item>
+    <item>
       <title>Office Hours</title>
       <link>http://localhost:1313/officehours/</link>
       <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/officehours/</guid>
       <description>Schedule and location for Professor Dr von Igelfeld&amp;#39;s office hours.</description>
-    </item>
-    <item>
-      <title>List of Irregular Verbs Across Romance Languages</title>
-      <link>http://localhost:1313/data/data1/</link>
-      <pubDate>Thu, 07 Mar 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/data/data1/</guid>
-      <description>This dataset contains all irregular verbs in known Romance languages.</description>
     </item>
     <item>
       <title>Lectures at the Villa of Reduced Circumstances</title>

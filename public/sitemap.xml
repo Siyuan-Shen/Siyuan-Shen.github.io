@@ -8,52 +8,55 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/officehours/</loc>
-    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/air-quality/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/data/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dataset/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/deep-learning/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/french/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/geophysical-constrains/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/irregular-verbs/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/gloabl-daatsets/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/italian/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/data/data1/data1/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/data/data1/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/philology/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/portuguese/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/python/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/romance-languages/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/remote-sensing/</loc>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/simulations/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/spanish/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2013-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/officehours/</loc>
+    <lastmod>2024-05-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/courses/</loc>
     <lastmod>2003-03-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/irregular-verbs/</loc>
+    <lastmod>2003-03-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/courses/course1/</loc>
+    <lastmod>2003-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/philology/</loc>
+    <lastmod>2003-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/portuguese/</loc>
+    <lastmod>2003-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/romance-languages/</loc>
+    <lastmod>2003-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/spanish/</loc>
     <lastmod>2003-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/books/</loc>
@@ -81,12 +84,6 @@
     <lastmod>1990-06-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/history-of-oil/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/mediterranean-world/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/oleic-science/</loc>
   </url><url>
     <loc>http://localhost:1313/papers/</loc>
   </url><url>

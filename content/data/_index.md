@@ -1,4 +1,4 @@
 ---
 title: "Data"
-description: "Datasets on various philological topics."
+description: "Siyuan Shen's Datasets."
 ---
