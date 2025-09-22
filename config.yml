@@ -44,7 +44,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["About Me","Research","courses","publications","data"]
+    MainSections: ["About Me","courses","publications","data"] #"Research"
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -62,8 +62,8 @@ params:
           buttons:
             - name: About Me
               url: aboutme/
-            - name: Research
-              url: research/
+            #- name: Research
+            #  url: research/
             - name: Publications
               url: papers/
             - name: Data
