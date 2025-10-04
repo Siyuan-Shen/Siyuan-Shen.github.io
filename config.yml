@@ -85,10 +85,10 @@ params:
           url: https://github.com/Siyuan-Shen
         - name: LinkedIn
           url: https://www.linkedin.com/in/siyuan-shen-68019b1a6/
-        - name: YouTube
-          url: https://www.youtube.com/channel/UC40KFb_x6X32jgOpCeW2S9w
         - name: Twitter
           url: https://x.com/ShenSiyuanA
+        - name: Other
+          url: https://www.satpm.org/
         - name: Other
           url: https://www.atmoschemml.com/
 
