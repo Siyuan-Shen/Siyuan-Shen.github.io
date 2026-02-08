@@ -8,7 +8,7 @@ description: "Some facts about Siyuan Shen"
 
 Last updates: 2025-02-08
 
-**I am looking for a postdoctoral postion!**
+**I am looking for a postdoctoral position!**
 
 I am currently a Ph.D. candidate working with Randall Martin in the [Atmospheric Composition Analysis Group](https://sites.wustl.edu/acag/)
 at Washington University in St. Louis. My current research
