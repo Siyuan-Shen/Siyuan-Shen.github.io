@@ -15,9 +15,9 @@ menu:
         - name: About Me
           url: aboutme/
           weight: 1
-        - name: Research
-          url: research/
-          weight: 2
+        #- name: Research
+        #  url: research/
+        #  weight: 2
         - name: Publications
           url: papers/
           weight: 3
