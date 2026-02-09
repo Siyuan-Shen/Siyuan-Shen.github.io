@@ -10,7 +10,7 @@ cover:
     alt: "Figure title (preferably 1280x720 pixels)"
     relative: true
 editPost:
-    URL: "https://www.satpm.org/"
+    URL: "https://www.satpm.org/v6-na-01"
     Text: "SatPM (ACAG Datasets)"
 showToc: true
 disableAnchoredHeadings: false
