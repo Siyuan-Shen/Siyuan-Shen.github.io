@@ -4,7 +4,7 @@ date: 2026-02-08
 tags: ["Remote Sensing","Air Quality","Gloabl Daatsets","Deep Learning","Geophysical Constrains","Simulations"]
 author: ["Siyuan Shen","Chi Li","Aaron van Donkelaar","Nathan A. Jacobs","Randall V. Martin"]
 description: "This dataset contains North America annual and monthly ground-level fine particulate matter ($\rm{PM_{2.5}}$) total and compositional mass for 2000-2023 at around 1 km resolution."
-summary: "This version is recommended for users with a North American-only focus and includes total and compositional PM₂.₅, as well as the contribution from biomass burning to ($\rm{PM_{2.5}}$), for 2000-2023. This version uses deep learning based structures."
+summary: "This version is recommended for users with a North American-only focus and includes total and compositional PM₂.₅, as well as the as well as the uncertainty estimation for 2000-2023. This version uses deep learning based structures."
 cover:
     image: "image.png"
     alt: "Figure title (preferably 1280x720 pixels)"
