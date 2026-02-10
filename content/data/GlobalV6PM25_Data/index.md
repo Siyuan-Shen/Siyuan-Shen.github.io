@@ -1,7 +1,7 @@
 ---
 title: "Global Satellite-derived Monthly PM₂.₅ Total Mass (0.01x0.01) - V6.GL.02.04 (Selected as AGU Impactful Datasets)"
 date: 2025-05-07
-tags: ["Remote Sensing","Air Quality","Gloabl Daatsets","Deep Learning","Geophysical Constrains","Simulations"]
+tags: ["Remote Sensing","Air Quality","Gloabl Datasets","Deep Learning","Geophysical Constraints","Simulations"]
 author: ["Siyuan Shen","Chi Li","Aaron van Donkelaar","Nathan A. Jacobs", "Chenguang Wang","Randall V. Martin"]
 description: "This dataset contains global annual and monthly ground-level fine particulate matter ($\rm{PM_{2.5}}$) for 2000-2023 at around 1 km resolution."
 summary: "This dataset contains global annual and monthly ground-level fine particulate matter ($\rm{PM_{2.5}}$) for 2000-2023 at around 1 km resolution."

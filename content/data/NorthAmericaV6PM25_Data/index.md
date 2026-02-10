@@ -1,7 +1,7 @@
 ---
 title: "North America Satellite-derived Monthly PM₂.₅ Total and Compositional Mass (0.01x0.01) - V6.NA.01"
 date: 2026-02-08
-tags: ["Remote Sensing","Air Quality","Gloabl Daatsets","Deep Learning","Geophysical Constrains","Simulations"]
+tags: ["Remote Sensing","Air Quality","Gloabl Datasets","Deep Learning","Geophysical Constraints","Simulations"]
 author: ["Siyuan Shen","Chi Li","Aaron van Donkelaar","Nathan A. Jacobs","Randall V. Martin"]
 description: "This dataset contains North America annual and monthly ground-level fine particulate matter ($\rm{PM_{2.5}}$) total and compositional mass for 2000-2023 at around 1 km resolution."
 summary: "This version is recommended for users with a North American-only focus and includes total and compositional PM₂.₅, as well as the as well as the uncertainty estimation for 2000-2023. This version uses deep learning based structures."
