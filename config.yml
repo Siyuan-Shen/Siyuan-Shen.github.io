@@ -37,7 +37,7 @@ params:
     hideFooter: false
     disableThemeToggle: true
     ShowShareButtons: false
-    ShowReadingTime: false
+    ShowReadingTime: true
     disableSpecial1stPost: true
     disableAnchoredHeadings: true
     ShowPostNavLinks: false
